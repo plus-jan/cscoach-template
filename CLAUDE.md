@@ -1,5 +1,8 @@
 # CLAUDE.md — Operating manual for AI agents
 
+> **Moved:** this knowledge base now lives in [`plus-jan/cscoach`](https://github.com/plus-jan/cscoach)
+> (a fork of autoresearch, ADR-0007). This repository will be archived; do not work here.
+
 This repository is the **knowledge base** for **cscoach**: a data-driven coaching engine for amateur and
 semi-pro Counter-Strike 2 players. It holds the concepts an agent needs to build, validate and extend the
 system: goals, specs, data description, assumptions, roadmap, research.

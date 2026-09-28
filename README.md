@@ -1,5 +1,8 @@
 # cscoach — CS2 coaching engine (knowledge base)
 
+> **Moved:** this knowledge base now lives in [`plus-jan/cscoach`](https://github.com/plus-jan/cscoach)
+> (a fork of autoresearch, ADR-0007). This repository will be archived; do not work here.
+
 A knowledge base for AI agents building a **data-driven, statistically validated coaching engine** for
 amateur and semi-pro Counter-Strike 2 players. It covers calibrated round **Win Probability**, **WPA**
 credit, **Expected Kills (xK)**, and economy and spatial analytics, turned into counterfactual,
